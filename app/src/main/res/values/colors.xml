@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="colorPrimaryDark">#2c3e50</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBtn">#cb3b00</color>
+    <color name="textoBtn">#fff</color>
+    <!--Colores de botones-->
+    <color name="botonUno">#1abc9c</color>
+    <color name="botonDos">#27ae60</color>
+    <color name="botonTres">#3498db</color>
+    <color name="botonCuatro">#2980b9</color>
+    <color name="botonCinco">#95a5a6</color>
+    <color name="botonSeis">#16a085</color>
+    <color name="botonSiete">#27ae60</color>
+    <color name="botonOcho">#95a5a6</color>
+    <color name="botonNueve">#3498db</color>
+    <color name="botonDiez">#1abc9c</color>
+
+    <color name="fondo">#000</color>
+
+</resources>
